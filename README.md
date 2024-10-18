@@ -1,3 +1,42 @@
+# Checklist
+
+## Backend
+- [x] Basic routes
+- [x] Static files
+- [x] Session based auth using express-session
+- [x] Multiple routers
+- [x] Authorized rouets
+- [x] Database (drizzle integration) 
+- [x] Routes using database
+- [ ] Routes with parameters
+- [ ] Creating custom cookies
+- [ ] Use redis for session store
+- [ ] Downloads
+- [ ] Sending emails
+- [ ] Using ejs templates
+- [ ] Creating error pages
+- [ ] Markdown template engine
+- [ ] MVC-style controllers
+- [ ] Tracking online user activity
+- [ ] Improve auth services
+- [ ] API Service
+- [ ] User bans & invalidating sessions
+
+## Database
+- [x] Basic MySQL using dizzle
+- [ ] Redis
+- [ ] MongoDB
+
+## API
+- [ ] Twilio
+- [ ] Stripe
+
+## Scraping
+- To Do
+
+## AI/ML
+- [ ] OpenAI GPT API integration
+
 # How to run?
 
 1) Setup a MySQL server locally or use a managed service.   
